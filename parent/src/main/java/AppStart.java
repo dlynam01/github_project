@@ -7,5 +7,9 @@ public class AppStart {
         System.out.println("Hello world");
         System.out.println("This is a change");
         System.out.println("This is totally thru intellij");
+
+        Car car = new Car();
+
+        System.out.println("This is my Car "+ car);
     }
 }
