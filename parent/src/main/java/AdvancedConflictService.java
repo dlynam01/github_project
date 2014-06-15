@@ -12,4 +12,8 @@ public class AdvancedConflictService {
     public void runAdvancedConflictService(){
 
     }
+
+    public void executeBug(){
+        System.out.print("This is a fix for a bug");
+    }
 }
